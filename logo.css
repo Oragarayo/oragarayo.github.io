@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    background-image: url(iWebsiteP/logo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
