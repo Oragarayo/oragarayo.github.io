@@ -21,7 +21,7 @@
     height: 75px;
     background-color: dimgray;
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
 }
 
 .contact {
@@ -29,4 +29,18 @@
     bottom: 25px;
     color: white;
     text-align: center;
+}
+
+.tgforum {
+    text-align: center;
+    color: aliceblue;
+    margin-top: 30px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fortnite {
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
 }
